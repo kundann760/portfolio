@@ -154,7 +154,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/kundann_mokhale/"
+            href="https://www.instagram.com/kundann_mokhle/"
             className="relative block h-8 w-8"
             target="_blank"
           >

@@ -29,6 +29,7 @@ import git from "./tech/git.png";
 import bitbucket from "./tech/bitbucket.svg";
 import vscode from "./tech/vscode.webp";
 import postman from "./tech/postman.webp";
+import chainlit from "./tech/chainlit.png";
 import eclipse from "./tech/eclipse.png";
 import miro from "./tech/miro.png";
 import sentry from "./tech/sentry.png";
@@ -71,6 +72,7 @@ export {
   html,
   javascript,
   reactjs,
+  chainlit,
   redux,
   tailwind,
   aws,

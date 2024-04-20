@@ -12,6 +12,7 @@ import {
   git,
   figma,
   docker,
+  chainlit,
   aws,
   valuelabs,
   tcr,
@@ -195,12 +196,16 @@ const otherTechnologies = [
     icon: aws2,
   },
   {
+    name: "appwrite",
+    icon: appwrite,
+  },
+  {
     name: "DBMS",
     icon: dbms,
   },
   {
-    name: "appwrite",
-    icon: appwrite,
+    name: "Chainlit",
+    icon: chainlit,
   },
 ];
 

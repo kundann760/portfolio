@@ -47,11 +47,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in JavaScript and Java,
-        and professional expertise in frameworks like React, Tailwind. also
-        worked on RPA realted things. I'm a quick learner and collaborate
-        closely with clients to create efficient, scalable, and user-friendly
-        solutions that solve real-world problems.{" "}
+        As a Senior Software Engineering Specialist, I build scalable,
+        high-performance web applications with a focus on frontend development,
+        automation, and cloud solutions. I specialize in React.js, Next.js,
+        TypeScript, and Tailwind CSS, and create seamless UI/UX with tools like
+        Figma. I develop full-stack solutions using Node.js, Express.js, and
+        MongoDB, and bring efficiency through automation using UI Path, Power
+        Automate, and Reflect. I’m also skilled in data visualization (Mapbox,
+        AM Charts), cloud deployment (AWS, Docker). Always learning, I thrive on
+        solving real-world problems through clean, efficient, and user-focused
+        code.
         <b>Let's work together to bring your ideas to life!</b>
       </motion.p>
 

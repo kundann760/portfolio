@@ -15,22 +15,24 @@ import {
 const App = () => {
   return (
     <BrowserRouter>
-      <div className="relative z-0 bg-primary">
-        <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+      <main className="relative z-0 bg-primary">
+        <header className="bg-hero-pattern bg-cover bg-center bg-no-repeat">
           <Navbar />
           <Hero />
-        </div>
+        </header>
+
         <About />
         <Tech />
         <Experience />
         <Works />
         <Education />
         <Feedbacks />
-        <div className="relative z-0">
+
+        <footer className="relative z-0">
           <Contact />
           <StarsCanvas />
-        </div>
-      </div>
+        </footer>
+      </main>
     </BrowserRouter>
   );
 };

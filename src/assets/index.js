@@ -39,6 +39,10 @@ import appwrite from "./tech/appwrite.png";
 import firebase from "./tech/firebase.svg";
 import next from "./tech/next.svg";
 import ts from "./tech/typescript.webp";
+import supabase from "./tech/supabase2.jpg";
+import gt from "./tech/gt.jpg";
+import cursor from "./tech/cusor.jpg";
+import Linear from "./tech/linear.jpg";
 
 import aws from "./company/aws.png";
 import valuelabs from "./company/Valuelabs.png";
@@ -107,4 +111,8 @@ export {
   sakshi,
   sahil,
   chain,
+  supabase,
+  gt,
+  cursor,
+  Linear
 };

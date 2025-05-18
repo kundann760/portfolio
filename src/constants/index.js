@@ -41,6 +41,10 @@ import {
   urvi,
   sahil,
   nike,
+  supabase,
+  gt,
+  cursor,
+  Linear,
 } from "../assets";
 
 export const navLinks = [
@@ -98,6 +102,10 @@ const frontendTechnologies = [
     name: "Next Js",
     icon: next,
   },
+  {
+    name: "React Native",
+    icon: reactjs,
+  },
 
   {
     name: "HTML",
@@ -131,8 +139,16 @@ const tools = [
     icon: github,
   },
   {
+    name: "Graphite",
+    icon: gt,
+  },
+  {
     name: "Sentry",
     icon: sentry,
+  },
+  {
+    name: "Cursor",
+    icon: cursor,
   },
   {
     name: "figma",
@@ -150,6 +166,10 @@ const tools = [
   {
     name: "Jira",
     icon: jira,
+  },
+  {
+    name: "Linear",
+    icon: Linear,
   },
   {
     name: "Miro",
@@ -186,6 +206,10 @@ const otherTechnologies = [
   {
     name: "Mysql",
     icon: mysql,
+  },
+  {
+    name: "Supabase",
+    icon: supabase,
   },
   {
     name: "Firebase",
